@@ -75,7 +75,7 @@
   "tnpm": {
     "mode": "npm"
   },
-  "overrides": {
+  "resolutions": {
     "colors": "1.2.0"
   }
 }
