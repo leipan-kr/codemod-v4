@@ -74,5 +74,8 @@
   },
   "tnpm": {
     "mode": "npm"
+  },
+  "overrides": {
+    "colors": "1.4.0"
   }
 }
