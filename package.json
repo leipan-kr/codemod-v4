@@ -76,6 +76,6 @@
     "mode": "npm"
   },
   "overrides": {
-    "colors": "@colors/colors"
+    "colors": "1.2.0"
   }
 }
